@@ -1,2 +1,9 @@
 # photoshoplovers-tutorial
-Photoshop tutorial from Photoshoplovers (@changeyouoo) on Tiktok
+
+Photoshop tutorial from [Photoshoplovers (@changeyouoo)](https://www.tiktok.com/@changeyouoo) on Tiktok
+
+<br>
+
+## Tools
+
+- Adobe Photoshop

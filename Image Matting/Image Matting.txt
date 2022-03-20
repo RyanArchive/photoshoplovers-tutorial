@@ -1,0 +1,7 @@
+Image Matting
+
+1. Use Lasso Tool to select the object
+2. Select > Refine Edge
+3. Use the brush for the remaining background
+4. Click OK
+5. Change the color

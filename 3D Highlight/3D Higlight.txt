@@ -1,0 +1,13 @@
+3D Highlight
+
+1. Duplicate the background (Ctrl + J)
+2. Filter > Distort > Zigzag
+3. Amount = 50; Ridges = 10
+4. Filter > Stylize > Extrude
+5. Size = 20; Depth = 200
+6. Duplicate layer (Ctrl + J)
+7. Filter > Stylize > Find Edges
+8. Invert (Ctrl + I)
+9. Change Layer from Normal to Screen
+10. Select layer below
+11. Create new fill or adjustment layer > Curves

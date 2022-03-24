@@ -1,0 +1,10 @@
+Remove Text
+
+1. Use Lasso Tool to select the text
+2. Select > Color Range
+3. Use Eyedropper Tool to select the color
+4. Lower the Fuzziness
+5. Click OK
+6. Select > Modify > Expand
+7. Expand by 2 px
+8. Edit > Fill (Shift + F5)

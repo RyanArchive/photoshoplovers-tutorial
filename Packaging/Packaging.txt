@@ -1,0 +1,12 @@
+Packaging
+
+1. Copy the image to be pasted
+2. Go to the box
+3. Create new layer
+4. Filter > Vanishing Point (Alt + Ctrl + V)
+5. Select the corners of the box
+6. Hold Ctrl and drag the other sides
+7. Paste the image
+8. Drag the image into the box
+9. Click OK
+10. Turn the Blending Mode to Modify

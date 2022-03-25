@@ -8,6 +8,6 @@
 6. Duplicate layer (Ctrl + J)
 7. Filter > Stylize > Find Edges
 8. Invert (Ctrl + I)
-9. Change Layer from Normal to Screen
+9. Change the Blending Mode to Screen
 10. Select layer below
 11. Create new fill or adjustment layer > Curves

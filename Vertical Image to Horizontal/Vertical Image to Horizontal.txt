@@ -1,0 +1,8 @@
+Vertical Image to Horizontal
+
+1. Use Crop Tool to drag the side to desired length
+2. Use Lasso Tool to select the object
+3. Right click > Save Selection to any Name
+4. Select > Deselect (Ctrl + D)
+5. Edit > Content-Aware Scale (Alt + Shift + Ctrl + C)
+6. Drag the side to resize

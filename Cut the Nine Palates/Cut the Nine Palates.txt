@@ -1,0 +1,10 @@
+Cut the Nine Palates
+
+1. Click Crop Tool
+2. Right click the image > 1 x 1 (Square)
+3. Click Slice Tool
+4. Right click the image > Divide Slice
+5. Set Divide Horizontally and Verticall Into 3
+6. File > Save for Web (Alt + Shift + Ctrl + S)
+7. Change file format to JPEG
+8. Click Save

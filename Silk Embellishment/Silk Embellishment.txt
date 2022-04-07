@@ -1,0 +1,9 @@
+Silk Embelishment
+
+1. Duplicate the silk or cloth
+2. Save in PSD format
+3. Drag the design above
+4. Filter > Distort > Displace
+5. Click OK
+6. Select the PSD file
+7. Change the Blending Mode to Multiply

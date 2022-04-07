@@ -1,0 +1,9 @@
+Add Graffiti
+
+1. Select the object
+2. Duplicate (Ctrl + J)
+3. Drag the design above
+4. Add clipping mask between the design and object (Alt)
+5. Change the Blending Mode into Hard Light
+6. Double click the mask
+7. Hold Alt then drag the Underlying Layer to the right

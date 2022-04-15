@@ -1,0 +1,8 @@
+Extracting Smoke
+
+1. Copy the image (Ctrl + C)
+2. Add a mask
+3. Hold Alt and click the mask
+4. Paste the image (Ctrl + V)
+5. Return to the original image
+6. Fill with white color
